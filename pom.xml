@@ -4,7 +4,7 @@
 
   <groupId>com.boundary.plugin</groupId>
   <artifactId>bootstrap-plugin</artifactId>
-  <version>1.0.0</version>
+  <version>01.00.00</version>
   <packaging>jar</packaging>
 
   <name>bootstrap-plugin</name>
